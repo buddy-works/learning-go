@@ -1,4 +1,4 @@
-module github.com/tannergabriel/learning-go/beginner-programs/HttpServer
+module github.com/buddy-works/learning-go/beginner-programs/HttpServer
 
 go 1.14
 

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/tannergabriel/learning-go/beginner-programs/HttpServer/server"
+	"github.com/buddy-works/learning-go/beginner-programs/HttpServer/server"
 	"log"
 	"net/http"
 )
